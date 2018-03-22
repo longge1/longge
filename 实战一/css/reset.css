@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*<link rel='shortcut icon' href='img/favicon[1].ico' type='images/x-icon'> */
+
+ body,p,h1,h2,h3,h4,h5,h6,dl,dd{
+	margin:0
+ }
+ ol,ul,li{
+	list-style:none;
+	margin:0;
+	padding:0;
+ }
+img{
+	border:none;
+	vertical-align:bottom;
+ }
+html{
+	cursor:url('../img/Hello.cur') , default;
+	font-size:14px;
+	font-family:"微软雅黑";
+ }
+      /*   html{cursor:url('../Hello_Text.cur') , default}; */
+a{
+	text-decoration:none;
+  }
